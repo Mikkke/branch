@@ -1,3 +1,4 @@
+
 alert("hello");
 alert("bonjour");
-var hello = "salut"
+var hello = "salut";
