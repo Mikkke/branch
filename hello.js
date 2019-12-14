@@ -1,5 +1,5 @@
-var coucou = "coucou";
+<<<<<<< HEAD
 alert("hello");
-o
-oo
-$alert("bonjour");
+alert("bonjour");
+var hello = "salut";
+>>>>>>> mon-test
