@@ -1,3 +1,5 @@
 var coucou = "coucou";
 alert("hello");
-alert("bonjour");
+o
+oo
+$alert("bonjour");
